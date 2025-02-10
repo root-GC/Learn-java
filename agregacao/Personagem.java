@@ -1,0 +1,5 @@
+package agregacao;
+
+class Personagem {
+     
+}
